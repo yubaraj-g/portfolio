@@ -11,16 +11,18 @@ function About() {
 
                     <div className='about-details'>
                         <div>
-                            <p>Hello! I'm Yubaraj Gaonkhowa, a 24 y/o Front End Developer from Raha, Assam, India. I enjoy coding and creating things that either looks good or have a decent purpose. I sometimes create things for fun too (mostly expermental). The reason I like frontend more is because I can create things and it's visually amazing. I tried exporing options and worked in different field for almost 2 years which made me realize that Coding (IT industry) is better than any other industry, from my POV(personal opinion only). Therefore I started coding again from 2022 beginning. I had almost forgot everything I learnt so far and decided to start from basic HTML CSS which made me really good at Front End development. Along with that I started learning UX Designing which taught me about Figma and it made my front end journey more wonderful. But my preference goes to coding more than designing.</p>
+                            <p>Hello! I'm Yubaraj Gaonkhowa, a 24 y/o Front End Developer from Raha, Assam, India. I enjoy coding and creating things. I am currently a Front End Developer but I'm learning backend as well. I love to learn and I plan to keep learning my entire life. Coding is fun, technologies are fun. I have worked using React, JavaScript, Redux, TailwindCSS, Bootstrap, PHP, SQL, HTML5, CSS3, Git, Node + Expres, MongoDB, Firebase. I have built over 15 projects including Frontend and Full Stack projects. I have worked with Youtube API, Unsplash API, Weather API, SQL Database and PHP, Firebase Authentication in Chat App, etc.</p>
 
-                            <p>During this journey I have worked in <b style={{ color: "#e0c4ff" }}>a start-up</b> for a limited contract period, after that I focused on strengthening my skills and started taking small freelance projects only. Since then I've been working on various projects and completed many and still working on more.</p>
+                            <p>Till now I have worked in <b style={{ color: "#e0c4ff" }}>a start-up</b> for a limited contract period, after that I have done Freelance until December 2022, then I joined another company in Bengaluru named Unizen Technologies as a Front-End Developer.</p>
 
-                            <h4>Here are the technologies I've been working on recently: </h4>
+                            <h4>Here are the technologies I've been working on <b>recently</b>: </h4>
 
-                            <div style={{display: "grid", gridTemplateColumns: "50% 50%", margin: "-1rem 2rem 2rem 2rem"}}>
+                            <div style={{ display: "grid", gridTemplateColumns: "50% 50%", margin: "-1rem 2rem 2rem 2rem" }}>
                                 <ul>
                                     <li>React</li>
+                                    <li>Redux, (redux-thunk)</li>
                                     <li>JavaScript(ES6+)</li>
+                                    <li>RestAPI</li>
                                     <li>TailwindCSS</li>
                                     <li>Git</li>
                                 </ul>
